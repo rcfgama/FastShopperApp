@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fast Shopper</string>
+    <string name="app_title">Seu Assistente para Lista de Compras no Mercado!</string>
+    <string name="lista_compras">LISTA DE COMPRAS</string>
+    <string name="editar_lista">EDITAR LISTA</string>
+    <string name="home">HOME</string>
+</resources>
